@@ -1,0 +1,19 @@
+{
+    "dataset": "ML-100K",
+    "n_hid": 500,
+    "n_dim": 1,
+    "k_len": 10,
+    "n_layers": 2,
+    "max_epoch_p": 500,
+    "patience_p": 50,
+    "tol_p": 1e-4,
+    "beta": 0.5,
+    "lambda_2": 34,
+    "lambda_s": 0.002,
+    "lambda_reg": 0.0016,
+    "lambda_reg2": 27.2,
+    "lr": 0.001,
+    "optim_type": "AdamW",
+    "drop": 0.65,
+    "dot_scale": 0.45
+}

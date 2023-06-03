@@ -14,7 +14,7 @@ The proposed IntnetRec is a neural recommendation algorithm. The proposed model 
 
 ## 4. RMSE Results
 - Douban: 0.7208
-- ML-100K: 0.8858
+- ML-100K: 0.8868
 - ML-1M: 0.823
 
 
