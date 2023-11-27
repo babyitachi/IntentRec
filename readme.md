@@ -1,15 +1,15 @@
-# Intentions are more than enough: leveraging user-item intent for the Advanced Recommender system, IntentRec
+# IntentRec: An Advanced Recommender System Leveraging User-Item Intent
 
 
 ## 1. Introduction
-The proposed IntnetRec is a neural recommendation algorithm. The proposed model cosists of 1) Intent layer 2) Kernel layer. Achieving state-of-the-art performance on the Movielens-100K and Douban datasets, beating all the existing models.
+The proposed IntnetRec is a neural recommendation algorithm. The proposed model consists of 1) the Intent layer and 2) the Kernel layer. Achieving state-of-the-art performance on the Movielens-100K and Douban datasets, beating all the existing models.
 
 
 ## 2. Requirements
-* numpy
-* pytorch
+* NumPy
+* PyTorch
 
-## 3. Code execturion commands
+## 3. Code execution commands
 1. ./run.sh file_dir_path_of(dataset) config_file(config.json)
 
 ## 4. RMSE Results
@@ -19,4 +19,4 @@ The proposed IntnetRec is a neural recommendation algorithm. The proposed model 
 
 
 ## 4. Data References
-1. Harper, F. M., & Konstan, J. A. (2015). The movielens datasets: History and context. *Acm transactions on interactive intelligent systems (tiis)*, 5(4), 1-19.
+1. Harper, F. M., & Konstan, J. A. (2015). The movie lens datasets: History and context. *Acm transactions on interactive intelligent systems (tiis)*, 5(4), 1-19.
